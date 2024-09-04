@@ -18,7 +18,7 @@
     <summary>Synk Vulnerability Scanning CLI Tool</summary>
     <description>CLI and build-time tool to find and fix known vulnerabilities in open-source dependencies</description>
     <releaseNotes>https://github.com/snyk/snyk/releases</releaseNotes>
-    <packageSourceUrl>hhttps://github.com/ducksecops/ducksecops-chocolatey/tree/main/snyk</packageSourceUrl>
+    <packageSourceUrl>https://github.com/ducksecops/ducksecops-chocolatey/tree/main/snyk</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
